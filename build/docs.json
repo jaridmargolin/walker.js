@@ -1,0 +1,12 @@
+{
+  "pages": [{
+    "fileName": "index.html",
+    "sections": [
+      "intro.md.hbs",
+      "easydocs",
+      "test.md.hbs",
+      "contributing.md.hbs",
+      "license.md.hbs"
+    ]
+  }]
+}

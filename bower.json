@@ -1,0 +1,15 @@
+{
+  "name": "walker.js ",
+  "version": "0.0.1",
+  "dependencies": {
+    "utl.js": "~0.1.1"
+  },
+  "ignore": [
+    "**/.*",
+    "Gruntfile.js",
+    "src",
+    "docs",
+    "test",
+    "build"
+  ]
+}
