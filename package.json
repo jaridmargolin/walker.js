@@ -2,7 +2,7 @@
   "name": "walker.js",
   "description": "Class used to navigate objects.",
   "author": "Jarid Margolin <jaridmargolin@gmail.com>",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "homepage": "https://github.com/jaridmargolin/walker.js",
   "repository": {
     "type": "git",
