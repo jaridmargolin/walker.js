@@ -1,6 +1,6 @@
 {
   "name": "walker.js ",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "utl.js": "~0.1.1"
   },
